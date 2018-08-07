@@ -1,0 +1,77 @@
+HTTP/1.1 200 OK
+Date: Mon, 06 Aug 2018 07:28:27 GMT
+Rate-Limit-Reset: 1533540490
+Vary: Accept, Origin
+Server: Tengine
+Rate-Limit-Total: 2
+Rate-Limit-Remaining: 1
+Content-Type: application/json; charset=utf-8
+Connection: keep-alive
+Content-Length: 1516
+X-Request-Id: f7e4b93b-78c1-431f-843c-a6b5da465d9f
+
+{
+  "success": true,
+  "items": [
+    {
+      "id": "1",
+      "imageUrl": "http://www.yirenguoji.com/uploads/allimg/180702/1-1PF2005941.jpg",
+      "content": "野生灵芝"
+    },
+    {
+      "id": "2",
+      "imageUrl": "http://202.101.244.180/ecitweb2007/news2007/uploadfile/newsimg/125-1.jpg",
+      "content": "抚州校区的西湖"
+    },
+    {
+      "id": "3",
+      "imageUrl": "http://xinwen.jgaoxiao.com/Uploads/news/Attach/526dfcc7bcc14.jpg",
+      "content": "新生军训"
+    },
+    {
+      "id": "4",
+      "imageUrl": "http://img2.ph.126.net/NjHvTMhbCihDSocfwxE11g==/2855563638830365544.jpg",
+      "content": "樱花广场"
+    },
+    {
+      "id": "5",
+      "imageUrl": "http://202.101.244.180/ecitweb2007/news2007/uploadfile/newsimg/165-2.jpg",
+      "content": "校园雪景"
+    },
+    {
+      "id": "6",
+      "imageUrl": "http://i1.sinaimg.cn/travel/2014/1021/U8842P704DT20141021103442_1.jpg",
+      "content": "校园风光"
+    },
+    {
+      "id": "7",
+      "imageUrl": "http://202.101.244.180/ecitweb2007/news2007/uploadfile/newsimg/1651-4.jpg",
+      "content": "抚州校区夜景"
+    },
+    {
+      "id": "8",
+      "imageUrl": "http://upload.ct.youth.cn/2013/0707/1373173834482.jpg",
+      "content": "三下乡活动"
+    },
+    {
+      "id": "9",
+      "imageUrl": "http://202.101.244.180/ecitweb2007/news2007/uploadfile/newstxt/20160525091829491.jpg",
+      "content": "文艺晚会"
+    },
+    {
+      "id": "10",
+      "imageUrl": "http://202.101.244.180/ecitweb2007/news2007/uploadfile/newstxt/20151215190012388.jpg",
+      "content": "广播操比赛"
+    },
+    {
+      "id": "11",
+      "imageUrl": "http://202.101.244.180/ecitweb2007/news2007/uploadfile/newstxt/20151110122039657.jpg",
+      "content": "校运会"
+    },
+    {
+      "id": "12",
+      "imageUrl": "http://pic.baike.soso.com/p/20130618/20130618153602-1487877646.jpg",
+      "content": "国防生风采"
+    }
+  ]
+}
